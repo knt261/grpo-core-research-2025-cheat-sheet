@@ -209,7 +209,7 @@ Transform token-level A to process-level A, then scale by 1/|λ|
 Smooth important ratio with 1
 
 * **Smoothed importance sampling ratio:** r\_smoothed \= (1-alpha)\*r\_old \+ alpha  
-* **NOTE:** theoretically interesting, but in practice doesn’t seem very interesting. Performs the same as GRPO (num\_iter\_per\_sample=1) with the same fixed generation budget.
+* **NOTE:** theoretically interesting, but performs the same as GRPO (num\_iter\_per\_sample=1) with the same fixed generation budget.
 
 ## DIVER \- Diversity-Incentivized Exploration for Versatile Reasoning
 
