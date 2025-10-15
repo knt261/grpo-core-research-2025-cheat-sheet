@@ -1,4 +1,4 @@
-# GRPO Core Algorithm Research 2025 Cheatsheet
+# GRPO Core Algorithm Research 2025 Cheat Sheet
 
 These research focuses on exploring modifications to the core GRPO algorithm (reward, advantage, accumulation function, clipping, etc).
 
